@@ -1,6 +1,4 @@
-package hello.servlet.basic.domain.member;
-
-import lombok.extern.java.Log;
+package hello.servlet.domain.member;
 
 import java.util.ArrayList;
 import java.util.HashMap;
